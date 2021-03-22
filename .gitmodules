@@ -2,3 +2,7 @@
 	path = firmware
 	url = https://github.com/PX4/PX4-Autopilot.git
 	branch = v1.11.3
+[submodule "simulator"]
+	path = simulator
+	url = https://github.com/PX4/PX4-SITL_gazebo.git
+	branch = 0da08f0
